@@ -7,9 +7,18 @@ body {
   padding: 0 auto;
 }
 
+.cabezera {
+  background-color: #33a;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+  color: white;
+  margin: 0;
+  padding: 0.5rem;
+  font-weight: bold;
+}
+
 .container {
   width: 70%;
-  padding: 1rem;
+  padding: 0;
   text-align: left;
   border: 1px solid #ddd;
   margin: 0 auto;
