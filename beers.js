@@ -7,3 +7,7 @@ while (beers > 0) {
     beers --
     console.log(beers + ' ' + message + ' left in the wall')
 }
+
+for (let i = 0; i < beers; i++) {
+    console.log('I have ' + beers - 0)
+}
